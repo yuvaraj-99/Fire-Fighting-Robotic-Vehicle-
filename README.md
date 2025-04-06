@@ -63,30 +63,6 @@ The Fire Fighting Robotic Vehicle is a smart, autonomous robot designed to detec
    - The robot should move toward the flame, stop at a safe distance, and activate the water pump.
 
 ---
-
-## 📱 Optional Features
-
-- **Mobile App Control:** Use Bluetooth or Wi-Fi app for manual override
-- **IoT Integration:** Monitor flame detection events and robot status online
-- **Voice Control:** Using Google Assistant (with IFTTT + NodeMCU)
-- **Camera Module:** For remote surveillance (ESP32-CAM or Wi-Fi cam)
-
----
-
-## 📈 Future Scope
-
-- Add thermal imaging for accurate fire source detection
-- Implement machine learning for smart navigation
-- Solar-powered version for sustainability
-- Deploy swarm robots for large area fire management
-
----
-
-## 📸 Demo
-
-> *(Insert images or video links of your working prototype here)*
-![IMG_0483](https://github.com/user-attachments/assets/2aae790b-0879-4fc6-849b-b45239677657)
-
 ## 📄 License
 
 This project is open-source and free to use under the [MIT License](LICENSE).
